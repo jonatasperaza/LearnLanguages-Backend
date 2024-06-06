@@ -1,5 +1,6 @@
 {
   "name": "learnlanguages-backend",
+  "homepage": "https://github.com/jonatasperaza/LearnLanguages-Backend",
   "version": "1.0.0",
   "description": "Backend LearnLanguages",
   "main": "server.js",
@@ -15,10 +16,24 @@
     "Express",
     "Cors",
     "Postgres",
-    "Uuid",
     "LearnLanguages"
   ],
-  "author": "Jonatas Silva Peraza",
+  "author": {
+    "name": "Jonatas Silva Peraza",
+    "email": "jonatassilvaperaza@gmail.com",
+    "url": "https://me.peraza.live"
+  },
+  "contributors": [
+    {
+      "name": "Anthony Gabriel Loche Dos Reis",
+      "email": "anthonylocheifc@gmail.com",
+      "url": "https://github.com/anthonyloche"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/jonatasperaza/LearnLanguages-Backend/issues",
+    "email": "jonatassilvaperaza@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "@vercel/speed-insights": "^1.0.11",
